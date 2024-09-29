@@ -1,1 +1,1 @@
-# pipico-virtualpet
+# virtual pet using a rpi pico (#bin wip)
